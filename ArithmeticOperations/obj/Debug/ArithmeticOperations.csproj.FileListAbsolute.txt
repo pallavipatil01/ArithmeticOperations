@@ -1,0 +1,7 @@
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\obj\Debug\ArithmeticOperations.csprojAssemblyReference.cache
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\demo\Downloads\ArithmeticOperations (1)\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
